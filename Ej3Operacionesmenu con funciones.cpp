@@ -3,9 +3,7 @@
 #include <conio.h>
 
 //Año 2015
-//3er Cuatrimestre
-//Alumno: Facundo Millivieri
-//Materia: Programacion 2
+//Probando C ejemplo simple
 
 //Declaración de Funciones: (Abajo de todo esta el procedimiento de las funciones declaradas fuera del main)
 float suma(float n1, float n2, float n3);
